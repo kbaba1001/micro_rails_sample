@@ -1,3 +1,9 @@
+PATH
+  remote: admins
+  specs:
+    admins (0.1.0)
+      rails (~> 5.0.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -173,6 +179,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  admins!
   annotate
   bullet
   byebug
